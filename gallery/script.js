@@ -1,4 +1,4 @@
-const USER="aliensupers4r";
+const USER="aliensuperst4r";
 const REPO="alnsprstr-rpg";
 const ROOT="assets";
  
